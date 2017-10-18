@@ -1,0 +1,17 @@
+body{
+    background-image: url("http://www.dccomics.com/sites/default/files/GalleryComics_1920x1080_20151209_SDOWAY_Cv64_56567a722ca196.43113049.jpg");
+    background-repeat: repeat-y;
+
+}
+h1{
+    font-family: 'Bangers', cursive;
+    font-size: 155px;
+    margin-top: 200px;
+    color:rgb(0, 140, 255);
+    text-align: center;
+}
+p{
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
